@@ -72,8 +72,8 @@ I am a hands-on developer and AI enthusiast building practical, scalable solutio
 ### 🤝 Connect with Me
 
 <p align="center">
-<a href="https://shashwatkarna.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://peerlist.io/shashwatkarna" target="blank"><img align="center" src="https://img.shields.io/badge/Peerlist-00a3ff?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" /></a>
+<a href="https://shashwatkarna.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://peerlist.io/shashwhat" target="blank"><img align="center" src="https://img.shields.io/badge/Peerlist-00a3ff?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" /></a>
 <a href="https://linkedin.com/in/shashwatkarna" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://tryhackme.com/p/shashwatkarna" target="blank"><img align="center" src="https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
