@@ -1,16 +1,8 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7DF1E&width=600&lines=Hi+there,+I'm+Shashwat+Karna!+👋" alt="Animated Greeting" /> 
+# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=00D2FF&width=600&lines=Hi+there,+I'm+Shashwat+Karna!+👋" alt="Animated Greeting" /> 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Shashwat%20Karna&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Software%20Engineer%20|%20AI%20|%20Cloud%20|%20LLM&fontSize=25&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
-
-<div align="center">
-  <h2><b>Passionate Software Engineer | AI | Cloud | LLM |</b></h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashwatkarna&theme=radical&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -59,13 +51,21 @@ I am a hands-on developer and AI enthusiast building practical, scalable solutio
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashwatkarna&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shashwat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatkarna&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats-rho-six.vercel.app/api?username=shashwatkarna&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shashwat's GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats-rho-six.vercel.app/api/top-langs/?username=shashwatkarna&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatkarna&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
@@ -81,3 +81,4 @@ I am a hands-on developer and AI enthusiast building practical, scalable solutio
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashwatkarna&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
+
