@@ -41,7 +41,7 @@ I am a hands-on developer and AI enthusiast building practical, scalable solutio
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[MindCareAI](https://github.com/shashwatkarna/mindcare-ai)** | AI-powered mental health platform with mood detection and fine-tuned models. | React, Flask, Transformers |
+| **[MindCareAI](https://github.com/shashwatkarna/mindcareai)** | AI-powered mental health platform with mood detection and fine-tuned models. | React, Flask, Transformers |
 | **[Objectrack](https://github.com/shashwatkarna/objectrack)** | Real-time object detection and classification using YOLOv5 and OpenCV. | Python, YOLOv5, OpenCV |
 | **[AniTime](https://github.com/shashwatkarna/anitime)** | Premium anime watch time planner designed with a modern glassmorphic UI. | Expo, FastAPI, Python |
 | **[AmityBot](https://github.com/shashwatkarna/amitybot)** | NLP-driven campus chatbot for navigation and faculty support. | Flask, React, NLP |
