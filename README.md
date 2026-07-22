@@ -15,7 +15,7 @@ Currently building AI-powered products while exploring the intersection of AI an
 - 🎓 B.Tech IT @ Amity University (Graduating 2026)
 - 🤖 Building AI tools and intelligent applications
 - 🔐 Exploring AI security, LLMs, and modern backend systems
-- 🌱 Learning something new every week — tech never sits still
+- 🌱 Learning something new every week - tech never sits still
 
 ---
 
@@ -32,32 +32,35 @@ Currently building AI-powered products while exploring the intersection of AI an
 
 ## Tech I work with
 
-Python · TypeScript · JavaScript · C++ · React · Next.js · Node.js · FastAPI · Flask · PostgreSQL · MongoDB · Redis · Docker · AWS · Linux
+Python · Java · TypeScript · JavaScript · C++ · React · Next.js · Node.js · FastAPI · Flask · PostgreSQL · MongoDB · Redis · AWS · Linux
 
 ---
 
 ## A few projects
 
-### 🧠 MindCareAI
+### 🧠 [MindCareAI](https://itsmindcareai.vercel.app/)
 AI-powered mental health platform with mood detection and fine-tuned language models.
 
-### 👁️ Objectrack
+### 👁️ [Objectrack](https://github.com/shashwatkarna/objectrack)
 Real-time object detection and classification using YOLOv8 & OpenCV.
 
-### 🍿 AniTime
+### 🍿 [AniTime](https://anitime-frontend.onrender.com)
 Anime watch-time planner with a clean glassmorphic interface.
 
-### 🤖 AmityBot
-Campus chatbot built for navigation and academic assistance.
+### ✍️ [Video2Pen](https://video2pen.vercel.app/)
+Turns YouTube lectures into structured study notebooks with an AI tutor, powered by Qwen 2.5 and Llama 3.3.
 
 ---
 
 ## Find me around the internet
 
-🌐 Portfolio — https://shashwatkarna.vercel.app
+🌐 Portfolio — https://shashwatkarna.netlify.app
 💼 LinkedIn — https://linkedin.com/in/shashwatkarna
 👨‍💻 Peerlist — https://peerlist.io/shashwhat
 🔐 TryHackMe — https://tryhackme.com/p/shashwatkarna
+✍️ Medium — https://medium.com/@shashwatkarna
+📸 Instagram — https://instagram.com/karn_shashwat
+𝕏 X — https://x.com/shashwat_karna
 
 ---
 
